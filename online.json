@@ -1,0 +1,30 @@
+{
+    "1966720" : {
+        "game_name" : "<nazwa gry>",
+        "file_url" : "<link do pobrania>",
+        "game_start_exe" : "<nazwa pliku który odpala gre>",
+
+        "file_to_delete" : {
+            "file_1" : {
+                "file_name" : "<nazwa pliku>",
+                "extension" : "<rozszerzenie pliku>"
+            }
+        },
+        "file_to_move" : {
+            "file_1" : {
+                "file_name" : "<nazwa pliku>",
+                "extension" : "<rozszerzenie pliku>",
+                "file_path" : "base/<ścieżka gdzie plik jest>",
+                "file_final_path" : "base/<ścieżka gdzie plik ma sie znaleźć>"
+            }
+        },
+        "file_to_rename" : {
+            "file_1" : {
+                "file_name" : "<nazwa pliku>",
+                "extension" : "<rozszerzenie pliku>",
+                "file_path" : "base/<nazwa pliku>",
+                "file_final_name" : "<nowa nazwa>"
+            }
+        }
+    }
+}
