@@ -105,7 +105,7 @@
         
         "file_to_delete" : {
             "file1" : {
-                "file_path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
+                "file_path" : "base/Dungeons/Binaries/Win64/",
                 "file_name" : "Dungeons-Win64-Shipping",
                 "extension" : "exe"
             }
@@ -113,7 +113,7 @@
         "file_to_move" : {},
         "file_to_rename" : {
             "file1" : {
-                "file_path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
+                "file_path" : "base/Dungeons/Binaries/Win64/",
                 "file_name" : "Dungeons",
                 "extension" : "exe",
                 "file_final_name" : "Dungeons-Win64-Shipping"
