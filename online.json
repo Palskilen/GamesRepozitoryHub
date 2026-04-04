@@ -83,7 +83,7 @@
     "739630" : {
         "game_name" : "Phasmophobia",
         "file_url" : "https://www.mediafire.com/file/f68sbitu51ld9vn/Phasmophobia.rar/file",
-        "game_start_exe" : {},
+        "game_start_exe" : "Launcher.exe",
 
         "file_to_delete" : {},
         "file_to_move" : {},
