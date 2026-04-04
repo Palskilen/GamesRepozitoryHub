@@ -101,11 +101,10 @@
     "1672970" : {
         "game_name" : "Minecraft Dungeons",
         "file_url" : "https://www.mediafire.com/file/93etgv4pg0svwaf/Minecraft_Dungeons.rar/file",
-        "game_start_exe" : {},
+        "game_start_exe" : "",
         
-        "delete_files" : {
+        "file_to_delete" : {
             "file1" : {
-                "file_path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
                 "file_name" : "Dungeons-Win64-Shipping",
                 "extension" : "exe"
             }
@@ -113,9 +112,9 @@
         "file_to_move" : {},
         "file_to_rename" : {
             "file1" : {
-                "file_path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
+                "path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
                 "file_name" : "Dungeons",
-                "extension" : "exe",
+                "file_extension" : "exe",
                 "file_final_name" : "Dungeons-Win64-Shipping"
             }
         }
