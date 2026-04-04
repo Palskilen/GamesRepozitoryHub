@@ -110,6 +110,7 @@
                 "extension" : "exe"
             }
         },
+        "file_to_move" : {},
         "file_to_rename" : {
             "file1" : {
                 "file_path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
