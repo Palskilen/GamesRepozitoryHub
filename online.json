@@ -7,5 +7,95 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
+    },
+    "1943950" : {
+        "game_name" : "Escape The Backrooms",
+        "file_url" : "https://www.mediafire.com/file/pty98fficvwkj3h/EscapeTheBackrooms.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "1987080" : {
+        "game_name" : "Inside The Backrooms",
+        "file_url" : "https://www.mediafire.com/file/yqzpg79x8k2mjt0/InsideTheBackrooms.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "2772990" : {
+        "game_name" : "Ghost Janitors",
+        "file_url" : "https://www.mediafire.com/file/17z5kmxw6viuts3/GhostJanitors.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "2780980" : {
+        "game_name" : "Lockdown Protocol",
+        "file_url" : "https://www.mediafire.com/file/hrvbvwj6s916lvc/LOCKDOWNProtocol.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "2835570" : {
+        "game_name" : "Buckshot Roulette",
+        "file_url" : "https://www.mediafire.com/file/lfm86vjmkqnj9jo/BuckshotRoulette.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "2881650" : {
+        "game_name" : "Content Warning",
+        "file_url" : "https://www.mediafire.com/file/94xsgflmcmtb6ca/ContentWarning.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "3164500" : {
+        "game_name" : "Schedule I",
+        "file_url" : "https://www.mediafire.com/file/r7ied2chr7bx2tq/ScheduleI.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "3527290" : {
+        "game_name" : "Peak",
+        "file_url" : "https://www.mediafire.com/file/giuhnj8q9fjnjk4/PEAK.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "739630" : {
+        "game_name" : "Phasmophobia",
+        "file_url" : "https://www.mediafire.com/file/f68sbitu51ld9vn/Phasmophobia.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
+    },
+    "2796180" : {
+        "game_name" : "Silent Breath",
+        "file_url" : "https://www.mediafire.com/file/5fu1f78d3eiofu0/SILENTBREATH.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
     }
 }
