@@ -2,7 +2,7 @@
     "1966720" : {
         "game_name" : "<nazwa gry>",
         "file_url" : "<link do pobrania>",
-        "game_start_exe" : "<nazwa pliku który odpala gre>",
+        "game_start_exe" : {"<base/ścieżka/do/pliku>" : "<nazwa pliku>"},
 
         "file_to_delete" : {
             "file_1" : {
