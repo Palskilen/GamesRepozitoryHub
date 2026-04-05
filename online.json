@@ -128,5 +128,14 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
+    },
+    "2709570" : {
+        "game_name" : "Supermarket Together",
+        "file_url" : "https://www.mediafire.com/file/s3arablysxx6soi/SupermarketTogether.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
     }
 }
