@@ -119,5 +119,14 @@
                 "file_final_name" : "Dungeons-Win64-Shipping"
             }
         }
+    },
+    "2567870" : {
+        "game_name" : "Chained Together",
+        "file_url" : "https://www.mediafire.com/file/3izdcnemqb7tbzr/ChainedTogether.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
     }
 }
