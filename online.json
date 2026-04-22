@@ -137,7 +137,7 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
-    }
+    },
     "2920570" : {
         "game_name" : "Dale and Dawson Stationery Supplies",
         "file_url" : "https://www.mediafire.com/file/dagtb468xaflj41/DaleandDawsonStationerySupplies.rar/file",
@@ -146,4 +146,5 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
+    }
 }
