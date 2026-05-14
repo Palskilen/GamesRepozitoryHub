@@ -1,1 +1,40 @@
-
+{
+  "version": {
+    "version": "1.5.17",
+    "link": "https://mediafire.com/...",
+    "changelog": [
+      "✅ Dodano stronę główną z Top 50",
+      "✅ Powiadomienia w tle",
+      "🔧 Poprawiono skanowanie biblioteki",
+      "🆕 Nowe gry: Cyberpunk 2077, RDR2"
+    ]
+  },
+  "featured": [
+    {
+      "app_id": "1091500",
+      "label": "NOWA",
+      "label_color": "#bc13fe",
+      "note": "Pełny support + DLC"
+    },
+    {
+      "app_id": "1174180",
+      "label": "NADCHODZI",
+      "label_color": "#ff8c00",
+      "note": "W trakcie dodawania"
+    }
+  ],
+  "news": [
+    {
+      "date": "2025-05-14",
+      "title": "Dodano 15 nowych gier",
+      "body": "Sprawdź zakładkę Online po aktualizację biblioteki.",
+      "type": "info"
+    }
+  ],
+  "games_status": {
+    "1091500": { "status": "full", "note": "Pełne DLC" },
+    "1174180": { "status": "partial", "note": "Może nie działać" },
+    "271590":  { "status": "new", "note": "Właśnie dodane" }
+  },
+  "top50": ["1091500", "271590", "1172470", "..."]
+}
