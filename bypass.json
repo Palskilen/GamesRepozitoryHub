@@ -72,6 +72,24 @@
             "file_to_delete" : {},
             "file_to_move" : {},
             "file_to_rename" : {}
+        },
+        "354380" : {
+            "game_name" : "Assassin’s Creed® Chronicles: China",
+            "file_url" : "https://files.catbox.moe/pfuvgn.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "359610" : {
+            "game_name" : "Assassin’s Creed® Chronicles: India",
+            "file_url" : "https://files.catbox.moe/d0sh1d.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         }
     }
 }
