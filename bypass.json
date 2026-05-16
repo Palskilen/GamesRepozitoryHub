@@ -18,7 +18,6 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         },
-        
         "48190" : {
             "game_name" : "Assassin's Creed Brotherhood",
             "file_url" : "https://files.catbox.moe/7cfq6r.rar",
@@ -73,9 +72,27 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         },
+        "311560" : {
+            "game_name" : "Assassin's Creed Rogue",
+            "file_url" : "https://files.catbox.moe/4bx27n.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
         "354380" : {
             "game_name" : "Assassin’s Creed® Chronicles: China",
             "file_url" : "https://files.catbox.moe/pfuvgn.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "368500" : {
+            "game_name" : "Assassin's Creed Syndicate",
+            "file_url" : "https://files.catbox.moe/3mc0cm.rar",
             "game_start_exe" : {},
 
             "file_to_delete" : {},
