@@ -90,6 +90,39 @@
             "file_to_delete" : {},
             "file_to_move" : {},
             "file_to_rename" : {}
+        },
+        "582160" : {
+            "game_name" : "Assassin's Creed Origins",
+            "file_urls": [
+                "https://files.catbox.moe/34dxn6.rar",
+                "https://files.catbox.moe/80bh8h.rar"
+            ],
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "812140" : {
+            "game_name" : "Assassin's Creed Odyssey",
+            "file_urls": [
+                "https://files.catbox.moe/10rbah.rar",
+                "https://files.catbox.moe/1hls28.rar",
+                "https://files.catbox.moe/pfdyqt.rar",
+                "https://files.catbox.moe/km2uag.rar",
+                "https://files.catbox.moe/vjvzga.rar",
+                "https://files.catbox.moe/kpq5jd.rar",
+                "https://files.catbox.moe/x3nywt.rar",
+                "https://files.catbox.moe/xr8e57.rar",
+                "https://files.catbox.moe/b3sqwl.rar",
+                "https://files.catbox.moe/m84laj.rar",
+                "https://files.catbox.moe/c19nv9.rar"
+            ],
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         }
     }
 }
