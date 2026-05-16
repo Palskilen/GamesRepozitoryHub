@@ -8,6 +8,15 @@
             "file_to_delete" : {},
             "file_to_move" : {},
             "file_to_rename" : {}
+        },
+        "242550" : {
+            "game_name" : "Assassin's Creed II",
+            "file_url" : "https://www.mediafire.com/file/locj45mkh3ruq0x/Assassin%2527sCreedIIBypass.rar/file",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         }
     }
 }
