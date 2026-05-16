@@ -146,5 +146,14 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
+    },
+    "2681030" : {
+        "game_name" : "Outbound",
+        "file_url" : "https://www.mediafire.com/file/ue7nr9s98k8mktb/OutboundOnline.rar/file",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
     }
 }
