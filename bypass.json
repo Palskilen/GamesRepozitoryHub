@@ -242,5 +242,20 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         }
+    },
+    "pearlabyss." : {
+        "_meta": {
+            "name": "Pearl Abyss.",
+            "icon": "https://koreajoongangdaily.joins.com/data/photo/2024/11/12/d2c1150a-767b-403b-84ca-c53fb4db8080.jpg"
+        },
+        "3321460" : {
+            "game_name" : "Crimson Desert",
+            "file_url" : "https://files.catbox.moe/rli6gm.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        }
     }
 }
