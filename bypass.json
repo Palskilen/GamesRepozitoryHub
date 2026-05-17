@@ -237,6 +237,15 @@
             "name": "Activision",
             "icon": "https://www.svgrepo.com/show/331277/activision.svg"
         },
+        "42680" : {
+            "game_name" : "Call of Duty®: Modern Warfare® 3 (2011)",
+            "file_url" : "https://files.catbox.moe/xgb3mb.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
         "311210" : {
             "game_name" : "Call of Duty: Black Ops III",
             "file_url" : "https://files.catbox.moe/0ba58n.rar",
@@ -246,9 +255,13 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         },
-        "42680" : {
-            "game_name" : "Call of Duty®: Modern Warfare® 3 (2011)",
-            "file_url" : "https://files.catbox.moe/xgb3mb.rar",
+        "3595270" : {
+            "game_name" : "Call of Duty®: Modern Warfare® III",
+            "file_urls": [
+                "https://files.catbox.moe/fd0t8e.rar",
+                "https://files.catbox.moe/nmv0py.rar",
+                "https://files.catbox.moe/qk342m.rar"
+            ],
             "game_start_exe" : {},
 
             "file_to_delete" : {},
