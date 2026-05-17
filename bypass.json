@@ -1,5 +1,9 @@
 {
     "ubisoft" : {
+        "_meta": {
+            "name": "Ubisoft",
+            "icon": "https://logodix.com/logo/1178865.jpg"
+        },
         "242550" : {
             "game_name" : "Rayman Legends",
             "file_url" : "https://files.catbox.moe/48r9us.rar",
