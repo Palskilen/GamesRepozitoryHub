@@ -268,6 +268,93 @@
             "file_to_delete" : {},
             "file_to_move" : {},
             "file_to_rename" : {}
+        },
+        "115300" : {
+            "game_name" : "Call of Duty®: Modern Warfare® 3 (2011)",
+            "file_url" : "https://files.catbox.moe/jkrqkn.rar",
+            "game_start_exe" : {},
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "202970" : {
+            "game_name" : "Call of Duty: Black Ops II",
+            "file_url" : "https://files.catbox.moe/l901fj.rar",
+            "game_start_exe" : {},
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "209160" : {
+            "game_name" : "Call of Duty: Ghosts",
+            "file_url" : "https://files.catbox.moe/qpwtcy.rar",
+            "game_start_exe" : "iw6-mod.exe",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "292730" : {
+            "game_name" : "Call of Duty: Infinite Warfare",
+            "file_url" : "https://files.catbox.moe/fzbpwo.rar",
+            "game_start_exe" : "iw7-mod.exe",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "311210" : {
+            "game_name" : "Call of Duty: Black Ops III",
+            "file_url" : "https://files.catbox.moe/qh168v.rar",
+            "game_start_exe" : "t7x.exe",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "" : {
+            "game_name" : "",
+            "file_url" : "",
+            "game_start_exe" : "",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "1985810" : {
+            "game_name" : "Call of Duty®: Black Ops Cold War",
+            "file_url" : "https://files.catbox.moe/zum90r.rar",
+            "game_start_exe" : "Black Ops Cold War Launcher.exe",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "3595230" : {
+            "game_name" : "Call of Duty®: Modern Warfare® II",
+            "file_url" : "https://files.catbox.moe/2mr1vm.rar",
+            "game_start_exe" : "_MWII Launcher_.exe",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "3595270" : {
+            "game_name" : "Call of Duty®: Modern Warfare® III",
+            "file_urls" : [
+                "https://files.catbox.moe/dthvu1.rar",
+                "https://files.catbox.moe/016ywa.rar",
+                "https://files.catbox.moe/2jopne.rar"
+            ],
+            "game_start_exe" : "_MWIII Launcher_.exe",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "2933620" : {
+            "game_name" : "Call of Duty®: Black Ops 6 - Campaign",
+            "file_urls" : [
+                "https://files.catbox.moe/bhrxyu.rar",
+                "https://files.catbox.moe/fipzp2.rar"
+            ],
+            "game_start_exe" : "",
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         }
     },
 
