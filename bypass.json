@@ -13,6 +13,7 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         },
+        
         "33230" : {
             "game_name" : "Assassin's Creed II",
             "file_url" : "https://files.catbox.moe/vt0y87.rar",
@@ -211,6 +212,23 @@
             "file_to_delete" : {},
             "file_to_move" : {},
             "file_to_rename" : {}
+        },
+
+        "241560" : {
+            "game_name" : "The Crew",
+            "file_urls": "https://files.catbox.moe/avbpfy.rar",
+            "game_start_exe" : {},
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "646910" : {
+            "game_name" : "The Crew 2",
+            "file_urls": "https://files.catbox.moe/hmx8fd.rar", 
+            "game_start_exe" : {},
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         }
     },
     "activision" : {
@@ -222,6 +240,15 @@
             "game_name" : "Call of Duty: Black Ops III",
             "file_url" : "https://files.catbox.moe/0ba58n.rar",
             "game_start_exe" : "t7x.exe",
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        },
+        "42680" : {
+            "game_name" : "Call of Duty®: Modern Warfare® 3 (2011)",
+            "file_url" : "https://files.catbox.moe/xgb3mb.rar",
+            "game_start_exe" : {},
 
             "file_to_delete" : {},
             "file_to_move" : {},
