@@ -242,113 +242,32 @@
             "name": "Activision",
             "icon": "https://www.svgrepo.com/show/331277/activision.svg"
         },
-        "7940": {
-            "game_name": "Call of Duty 4: Modern Warfare",
-            "file_url": "https://files.catbox.moe/si9smh.rar",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
+        "7940" : {
+            "game_name" : "Call of Duty 4: Modern Warfare (2007)",
+            "file_url" : "https://files.catbox.moe/s3bba1.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         },
-        "10180": {
-            "game_name": "Call of Duty: Modern Warfare 2",
-            "file_url": "https://files.catbox.moe/2gm2wu.rar",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
+        "10180" : {
+            "game_name" : "Call of Duty: Modern Warfare 2 (2009)",
+            "file_url" : "https://files.catbox.moe/bytxxn.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         },
-        "42700": {
-            "game_name": "Call of Duty: Black Ops",
-            "file_url": "https://files.catbox.moe/46y73h.rar",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "42680": {
-            "game_name": "Call of Duty: Modern Warfare 3",
-            "file_url": "https://files.catbox.moe/m5b285.rar",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "202970": {
-            "game_name": "Call of Duty: Black Ops II",
-            "file_url": "https://files.catbox.moe/qdsd3h.rar",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "209160": {
-            "game_name": "Call of Duty: Ghosts",
-            "file_url": "https://files.catbox.moe/86em0g.rar",
-            "game_start_exe": "iw6-mod.exe",
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "292730": {
-            "game_name": "Call of Duty: Infinite Warfare",
-            "file_url": "https://files.catbox.moe/nt8hk4.rar",
-            "game_start_exe": "iw7-mod.exe",
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "311210": {
-            "game_name": "Call of Duty: Black Ops III",
-            "file_url": "https://files.catbox.moe/75laa2.rar",
-            "game_start_exe": "t7x.exe",
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "393080": {
-            "game_name": "Call of Duty: Modern Warfare (2019)",
-            "file_url": "",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "1985810": {
-            "game_name": "Call of Duty: Black Ops Cold War",
-            "file_url": "",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "1962660": {
-            "game_name": "Call of Duty: Modern Warfare II (2022)",
-            "file_url": "",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "2519060": {
-            "game_name": "Call of Duty: Modern Warfare III (2023)",
-            "file_urls": [
-                "https://files.catbox.moe/t5qfhi.rar",
-                "https://files.catbox.moe/l0igmk.rar",
-                "https://files.catbox.moe/w4qmw3.rar"
-            ],
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
-        },
-        "2933620": {
-            "game_name": "Call of Duty: Black Ops 6",
-            "file_url": "",
-            "game_start_exe": {},
-            "file_to_delete": {},
-            "file_to_move": {},
-            "file_to_rename": {}
+        "42700" : {
+            "game_name" : "Call of Duty: Black Ops",
+            "file_url" : "https://files.catbox.moe/13mrun.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
         }
     },
 
