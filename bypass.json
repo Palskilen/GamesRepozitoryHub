@@ -309,10 +309,29 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         },
-        "" : {
-            "game_name" : "",
-            "file_url" : "",
-            "game_start_exe" : "",
+        "2000950" : {
+            "game_name" : "Call of Duty®: Modern Warfare",
+            "file_urls" : [
+                "",
+                "",
+                "https://files.catbox.moe/dmo4rg.rar",
+                "https://files.catbox.moe/8wuhzq.rar",
+                "https://files.catbox.moe/7s4of7.rar",
+                "https://files.catbox.moe/33cjnb.rar",
+                "https://files.catbox.moe/n1s423.rar",
+                "https://files.catbox.moe/1h9ani.rar",
+                "https://files.catbox.moe/sr6b2u.rar",
+                "https://files.catbox.moe/8015gu.rar",
+                "https://files.catbox.moe/vwmbyv.rar",
+                "https://files.catbox.moe/6xipwu.rar",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "game_start_exe" : "ModernWarfare.exe",
             "file_to_delete" : {},
             "file_to_move" : {},
             "file_to_rename" : {}
