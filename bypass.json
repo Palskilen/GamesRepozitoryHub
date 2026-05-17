@@ -221,7 +221,7 @@
         "311210" : {
             "game_name" : "Call of Duty: Black Ops III",
             "file_url" : "https://files.catbox.moe/0ba58n.rar",
-            "game_start_exe" : {},
+            "game_start_exe" : "t7x.exe",
 
             "file_to_delete" : {},
             "file_to_move" : {},
