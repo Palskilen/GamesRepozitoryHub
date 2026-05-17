@@ -155,5 +155,14 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
+    },
+    "1962700" : {
+        "game_name" : "Subnautica 2",
+        "file_url" : "https://files.catbox.moe/0h9e7k.rar",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
     }
 }
