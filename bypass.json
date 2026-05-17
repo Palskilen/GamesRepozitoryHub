@@ -271,8 +271,8 @@
     },
     "playstation" : {
         "_meta": {
-            "name": "Playstation",
-            "icon": "https://i.pinimg.com/736x/f0/5f/f6/f05ff659613f8bedd86c5a9782814fcc.jpg"
+            "name": "Sony",
+            "icon": "https://cdn-icons-png.flaticon.com/512/5969/5969288.png"
         },
         "2428810" : {
             "game_name" : "Lego Horizon Adventures",
