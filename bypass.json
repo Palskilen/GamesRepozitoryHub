@@ -8,6 +8,7 @@
             "game_name" : "Rayman Legends",
             "file_url" : "https://files.catbox.moe/48r9us.rar",
             "game_start_exe" : {},
+            "size_gb": 2.3,
 
             "file_to_delete" : {},
             "file_to_move" : {},
