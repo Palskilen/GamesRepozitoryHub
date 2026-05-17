@@ -212,5 +212,35 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         }
+    },
+    "activision" : {
+        "_meta": {
+            "name": "Activision",
+            "icon": "https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/activision-8z8f6ajr52hayfime09ck.png/activision-fu3o4wnipx9iy17w7wou7i.png?_a=DATAiZAAZAA0"
+        },
+        "311210" : {
+            "game_name" : "Call of Duty: Black Ops III",
+            "file_url" : "https://files.catbox.moe/0ba58n.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        }
+    },
+    "playstation" : {
+        "_meta": {
+            "name": "Playstation",
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3X1jwQxDbL0AjtZcBl7zadvtNEyl-qUF4w&s"
+        },
+        "2428810" : {
+            "game_name" : "Lego Horizon Adventures",
+            "file_url" : "https://files.catbox.moe/lsdqet.rar",
+            "game_start_exe" : {},
+
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        }
     }
 }
