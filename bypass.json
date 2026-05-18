@@ -170,22 +170,6 @@
             "file_to_move" : {},
             "file_to_rename" : {}
         },
-        "3159330" : {
-            "game_name" : "Assassin's Creed Shadows",
-            "file_urls": [
-                "https://files.catbox.moe/tjr71g.rar",
-                "https://files.catbox.moe/hk53yx.rar",
-                "https://files.catbox.moe/mxogul.rar",
-                "https://files.catbox.moe/gal4yz.rar",
-                "https://files.catbox.moe/y9fjbw.rar",
-                "https://files.catbox.moe/2zasn5.rar",
-                "https://files.catbox.moe/yz708p.rar"
-            ], 
-            "game_start_exe" : {},
-            "file_to_delete" : {},
-            "file_to_move" : {},
-            "file_to_rename" : {}
-        },
 
         "243470" : {
             "game_name" : "Watch_Dogs™",
@@ -312,8 +296,8 @@
         "2000950" : {
             "game_name" : "Call of Duty®: Modern Warfare",
             "file_urls" : [
-                "",
-                "",
+                "https://files.catbox.moe/l5qv3l.rar",
+                "https://files.catbox.moe/9mz5at.rar",
                 "https://files.catbox.moe/dmo4rg.rar",
                 "https://files.catbox.moe/8wuhzq.rar",
                 "https://files.catbox.moe/7s4of7.rar",
@@ -324,12 +308,12 @@
                 "https://files.catbox.moe/8015gu.rar",
                 "https://files.catbox.moe/vwmbyv.rar",
                 "https://files.catbox.moe/6xipwu.rar",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "https://files.catbox.moe/rdz475.rar",
+                "https://files.catbox.moe/251slu.rar",
+                "https://files.catbox.moe/kaazcm.rar",
+                "https://files.catbox.moe/bjtaok.rar",
+                "https://files.catbox.moe/1gfn04.rar",
+                "https://files.catbox.moe/1gfn04.rar"
             ],
             "game_start_exe" : "ModernWarfare.exe",
             "file_to_delete" : {},
