@@ -383,7 +383,22 @@
 
 
 
+    
+    "denuvo" : {
+        "_meta": {
+            "name": "Denuvo",
+            "icon": "https://cdn.wccftech.com/wp-content/uploads/2018/11/Denuvo.png"
+        },
+        "2215200" : {
+            "game_name" : "LEGO® Batman™: Legacy of the Dark Knight",
+            "file_url" : "https://files.catbox.moe/dj5m7f.rar",
+            "game_start_exe" : {},
 
+            "file_to_delete" : {},
+            "file_to_move" : {},
+            "file_to_rename" : {}
+        }
+    },
 
     "pearlabyss." : {
         "_meta": {
