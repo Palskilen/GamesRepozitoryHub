@@ -164,5 +164,14 @@
         "file_to_delete" : {},
         "file_to_move" : {},
         "file_to_rename" : {}
+    },
+    "3892270" : {
+        "game_name" : "Gamble With Your Friends",
+        "file_url" : "https://files.catbox.moe/cs1f0h.rar",
+        "game_start_exe" : {},
+
+        "file_to_delete" : {},
+        "file_to_move" : {},
+        "file_to_rename" : {}
     }
 }
